@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/triangle_detection_and_vertic_extraction_in_image.dir/main.cpp.o  -o triangle_detection_and_vertic_extraction_in_image 

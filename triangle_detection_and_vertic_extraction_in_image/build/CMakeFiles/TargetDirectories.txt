@@ -1,0 +1,7 @@
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/install/strip.dir
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/edit_cache.dir
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/camera_calibration.dir
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/install.dir
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/rebuild_cache.dir
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/list_install_components.dir
+/home/pan/projects/triangle_detection_and_vertic_extraction_in_image/build/CMakeFiles/install/local.dir

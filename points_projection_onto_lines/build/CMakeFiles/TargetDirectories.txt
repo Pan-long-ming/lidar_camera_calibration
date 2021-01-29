@@ -1,0 +1,7 @@
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/install/strip.dir
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/edit_cache.dir
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/point_set_processing.dir
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/list_install_components.dir
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/install/local.dir
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/rebuild_cache.dir
+/home/pan/projects/points_projection_onto_lines/build/CMakeFiles/install.dir

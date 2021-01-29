@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pan/projects/points_projection_onto_lines/main.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Point_set_3.h
+-
+CGAL/Point_set_3/IO.h
+-
+CGAL/property_map.h
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_3.h
+-
+CGAL/Simple_cartesian.h
+-
+CGAL/linear_least_squares_fitting_3.h
+-
+CGAL/Default_diagonalize_traits.h
+-
+cassert
+-
+cstdlib
+-
+list
+-
+CGAL/Random.h
+-
+fstream
+-
+vector
+-
+limits
+-
+utility
+-
+
